@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "allprojects",
+        "buildscript",
+        "geolocator",
+        "subprojects",
+        "أسوان",
+        "القاهرة",
+        "خرائط"
+    ],
+    "scoper.extendHighlight": true,
+    "cSpell.mergeCSpellSettings": false,
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true
+}
